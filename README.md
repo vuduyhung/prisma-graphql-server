@@ -15,11 +15,11 @@ This project is a server application that uses TypeScript, GraphQL, and React. I
 
 1. Clone the repository
 2. Install dependencies with `npm install`
-3. Compile TypeScript code with `npm run build`
+<!-- 3. Compile TypeScript code with `npm run build` -->
 
 ## Usage
 
-Run command on terminal: npm run dev
+Run command on terminal: `npm run dev`
 
 ## Contributing
 
